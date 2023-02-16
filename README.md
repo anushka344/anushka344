@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning JAVA development<br>👯 I’m looking to collaborate on Machine Learning, Spring<br>💬 Ask me about Data Structures, DBMS, ML<br>
-- 📫 How to reach me **anushkaghosh344@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
