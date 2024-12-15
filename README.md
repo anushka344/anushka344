@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning JAVA development<br>👯 I’m looking to collaborate on React<br>💬 Ask me about Data Structures, DBMS, ML<br>
+🌱 I’m currently learning Springboot and microservices<br>👯 I’m looking to collaborate on React<br>💬 Ask me about Data Structures, DBMS, ML<br>
 
 
 
